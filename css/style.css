@@ -1,0 +1,42 @@
+h1{
+    font-style: oblique;
+    color: rgb(72, 72, 183);
+    font-size: 50px;
+    position: sticky;
+    border-radius: 4px;
+}
+marquee{
+    font-size: 30px;
+    color: rgb(9, 9, 62);
+    background-color: rgb(214, 214, 236);
+
+}
+li{
+    font-size: 25px;
+    font-style: italic;
+    color: rgb(1, 1, 22);
+    position: relative;
+}
+footer{
+    font-size: 25px;
+    font-style: italic;
+    color:rgb(23, 23, 34) ;
+}
+img{
+    size: adjust 100px;
+    width: 250px;
+    height: 500px;
+    position: relative;
+}
+a{
+    font-size: 30px;
+    color: rgb(4, 4, 225);
+    font-style: inherit;
+    border-radius: 1px;
+}
+h3{
+    color: rgb(51, 51, 239);
+    font-size: 50px;
+    font-style: italic;
+    
+}
